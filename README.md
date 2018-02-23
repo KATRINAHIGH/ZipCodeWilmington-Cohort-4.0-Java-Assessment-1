@@ -6,7 +6,8 @@
         * [BasicStringUtils](./instructions/part1/README-BasicStringUtils.md)
         * [IntegerArrayUtils](./instructions/part1/README-IntegerArrayUtils.md)
         * [IntegerUtils](./instructions/part1/README-IntegerUtils.md)
-        * [RockPaperScissorsEvaluator](./instructions/part1/README-RockPaperScissorsEvaluator.md)
+        * [RockPaperScissorsEvaluator](./instructions/part1/README-RockPaperSissorsEvaluator.md)
+
         
     * Continue by completing section 2.
         * [ArrayUtils](./instructions/part2/README-ArrayUtils.md)
