@@ -15,7 +15,7 @@
 <br><br><br><br>
 ## `String camelCase(String str)`
 * **Description**
-    * Given an string array, `str`, return the first element of the array.
+    * Given a string, `str`, return an identical String with the first character capitalized.
 ### Example
 * Sample Script
 
